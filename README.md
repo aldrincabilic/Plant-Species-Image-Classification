@@ -15,14 +15,14 @@ This section presents the 20 selected tropical medicinal plants used in the imag
 <table>
 <tr>
 <td align="center">
-<img src="Images/pan.jpg" width="200"><br>
+<img src="images/pan.jpg" width="200"><br>
 <b>Ulasimang Bato</b><br>
 <i>Peperomia pellucida</i><br>
 Small succulent herb traditionally used for joint pain.
 </td>
 
 <td align="center">
-<img src="Images/cu.jpg" width="200"><br>
+<img src="images/cu.jpg" width="200"><br>
 <b>Curry Leaf</b><br>
 <i>Murraya koenigii</i><br>
 Aromatic shrub widely used in cooking and herbal medicine.
