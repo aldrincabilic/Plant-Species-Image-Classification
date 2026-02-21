@@ -10,159 +10,30 @@ This section presents the 20 selected tropical medicinal plants used in the imag
 
 ---
 
-## 🌱 Plant Gallery
+# 🌿 Tropical Medicinal Plants Classification
 
-<table>
-<tr>
-<td align="center">
-<img src="pan.jpg" width="200"><br>
-<b>Ulasimang Bato</b><br>
-<i>Peperomia pellucida</i><br>
-Small succulent herb traditionally used for joint pain.
-</td>
-
-<td align="center">
-<img src="images/cu.jpg" width="200"><br>
-<b>Curry Leaf</b><br>
-<i>Murraya koenigii</i><br>
-Aromatic shrub widely used in cooking and herbal medicine.
-</td>
-
-<td align="center">
-<img src="images/kakawate.jpg" width="200"><br>
-<b>Kakawate</b><br>
-<i>Gliricidia sepium</i><br>
-Fast-growing tree used as fencing and shade plant.
-</td>
-
-<td align="center">
-<img src="images/gotu-kola.jpg" width="200"><br>
-<b>Gotu Kola</b><br>
-<i>Centella asiatica</i><br>
-Creeping herb known for memory and wound support.
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="images/serpentina.jpg" width="200"><br>
-<b>Serpentina</b><br>
-<i>Rauvolfia serpentina</i><br>
-Medicinal plant traditionally used for blood pressure.
-</td>
-
-<td align="center">
-<img src="images/chinese-leeks.jpg" width="200"><br>
-<b>Chinese Leeks</b><br>
-<i>Allium tuberosum</i><br>
-Perennial herb used as vegetable and medicine.
-</td>
-
-<td align="center">
-<img src="images/kamote-tops.jpg" width="200"><br>
-<b>Kamote Tops</b><br>
-<i>Ipomoea batatas</i><br>
-Young sweet potato leaves rich in antioxidants.
-</td>
-
-<td align="center">
-<img src="images/siling-labuyo.jpg" width="200"><br>
-<b>Siling Labuyo</b><br>
-<i>Capsicum frutescens</i><br>
-Spicy chili plant common in Filipino cuisine.
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="images/atsuete.jpg" width="200"><br>
-<b>Atsuete</b><br>
-<i>Bixa orellana</i><br>
-Produces red seeds used as natural food coloring.
-</td>
-
-<td align="center">
-<img src="images/mabolo.jpg" width="200"><br>
-<b>Mabolo</b><br>
-<i>Diospyros blancoi</i><br>
-Velvet apple native to the Philippines.
-</td>
-
-<td align="center">
-<img src="images/bibhitaki.jpg" width="200"><br>
-<b>Bibhitaki</b><br>
-<i>Terminalia bellirica</i><br>
-Tree with fruits used in traditional medicine.
-</td>
-
-<td align="center">
-<img src="images/shatavari.jpg" width="200"><br>
-<b>Shatavari</b><br>
-<i>Asparagus racemosus</i><br>
-Climbing plant with medicinal roots.
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="images/ashwagandha.jpg" width="200"><br>
-<b>Ashwagandha</b><br>
-<i>Withania somnifera</i><br>
-Traditional medicinal shrub.
-</td>
-
-<td align="center">
-<img src="images/guduchi.jpg" width="200"><br>
-<b>Guduchi</b><br>
-<i>Tinospora cordifolia</i><br>
-Climbing plant used for immune support.
-</td>
-
-<td align="center">
-<img src="images/alagaw.jpg" width="200"><br>
-<b>Alagaw</b><br>
-<i>Premna odorata</i><br>
-Philippine medicinal shrub for cough remedies.
-</td>
-
-<td align="center">
-<img src="images/malabar-nut.jpg" width="200"><br>
-<b>Malabar Nut</b><br>
-<i>Justicia adhatoda</i><br>
-Leaves used for respiratory health.
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="images/kratom.jpg" width="200"><br>
-<b>Kratom</b><br>
-<i>Mitragyna speciosa</i><br>
-Tropical tree native to Southeast Asia.
-</td>
-
-<td align="center">
-<img src="images/ageratum.jpg" width="200"><br>
-<b>Ageratum</b><br>
-<i>Ageratum conyzoides</i><br>
-Small flowering plant common in tropical regions.
-</td>
-
-<td align="center">
-<img src="images/kava.jpg" width="200"><br>
-<b>Kava</b><br>
-<i>Piper methysticum</i><br>
-Root used in ceremonial herbal preparations.
-</td>
-
-<td align="center">
-<img src="images/bitter-leaf.jpg" width="200"><br>
-<b>Bitter Leaf</b><br>
-<i>Vernonia amygdalina</i><br>
-Shrub known for its medicinal bitter leaves.
-</td>
-</tr>
-</table>
+| Image | Common Name | Scientific Name | Description |
+|-------|-------------|----------------|-------------|
+| ![](pan.jpg) | Ulasimang Bato | *Peperomia pellucida* | Small succulent herb traditionally used for joint pain and inflammation. |
+| ![](images/curry-leaf.jpg) | Curry Leaf | *Murraya koenigii* | Aromatic shrub widely used in cooking and traditional herbal medicine. |
+| ![](images/kakawate.jpg) | Kakawate | *Gliricidia sepium* | Fast-growing tree used for fencing, shade, and soil improvement. |
+| ![](images/gotu-kola.jpg) | Gotu Kola | *Centella asiatica* | Creeping herb known for memory enhancement and wound healing. |
+| ![](images/serpentina.jpg) | Serpentina | *Rauvolfia serpentina* | Medicinal plant used for hypertension and calming effects. |
+| ![](images/chinese-leeks.jpg) | Chinese Leeks | *Allium tuberosum* | Edible plant used in cooking and traditional remedies. |
+| ![](images/kamote-tops.jpg) | Kamote Tops | *Ipomoea batatas* | Leafy vegetable rich in antioxidants and used for anemia support. |
+| ![](images/siling-labuyo.jpg) | Siling Labuyo | *Capsicum frutescens* | Small chili pepper used in food and for boosting metabolism. |
+| ![](images/atsuete.jpg) | Atsuete | *Bixa orellana* | Plant used as natural food coloring and traditional medicine. |
+| ![](images/mabolo.jpg) | Mabolo | *Diospyros blancoi* | Tropical fruit tree known for its edible fruit and medicinal bark. |
+| ![](images/bibhitaki.jpg) | Bibhitaki | *Terminalia bellirica* | Herbal plant used in Ayurvedic medicine for digestion support. |
+| ![](images/shatavari.jpg) | Shatavari | *Asparagus racemosus* | Medicinal plant used for hormonal balance and reproductive health. |
+| ![](images/ashwagandha.jpg) | Ashwagandha | *Withania somnifera* | Adaptogenic herb used to reduce stress and improve vitality. |
+| ![](images/guduchi.jpg) | Guduchi | *Tinospora cordifolia* | Climbing shrub known for boosting immunity. |
+| ![](images/alagaw.jpg) | Alagaw | *Premna odorata* | Traditional Filipino medicinal plant used for cough and fever. |
+| ![](images/malabar-nut.jpg) | Malabar Nut | *Justicia adhatoda* | Medicinal plant used for respiratory conditions. |
+| ![](images/kratom.jpg) | Kratom | *Mitragyna speciosa* | Tropical tree known for its stimulant and medicinal properties. |
+| ![](images/ageratum.jpg) | Ageratum | *Ageratum conyzoides* | Medicinal herb used for wound healing and anti-inflammatory purposes. |
+| ![](images/kava.jpg) | Kava | *Piper methysticum* | Plant known for its calming and sedative effects. |
+| ![](images/bitter-leaf.jpg) | Bitter Leaf | *Vernonia amygdalina* | Medicinal shrub used for digestion and blood sugar regulation. |
 
 ##Reflection Questions:
 
