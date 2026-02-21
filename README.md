@@ -16,20 +16,20 @@ This section presents the 20 selected tropical medicinal plants used in the imag
 |-------|-------------|----------------|-------------|
 | ![](pan.jpg) | Ulasimang Bato | *Peperomia pellucida* | Small succulent herb traditionally used for joint pain and inflammation. |
 | ![](cu.jpg) | Curry Leaf | *Murraya koenigii* | Aromatic shrub widely used in cooking and traditional herbal medicine. |
-| ![](images/kakawate.jpg) | Kakawate | *Gliricidia sepium* | Fast-growing tree used for fencing, shade, and soil improvement. |
-| ![](images/gotu-kola.jpg) | Gotu Kola | *Centella asiatica* | Creeping herb known for memory enhancement and wound healing. |
-| ![](images/serpentina.jpg) | Serpentina | *Rauvolfia serpentina* | Medicinal plant used for hypertension and calming effects. |
-| ![](images/chinese-leeks.jpg) | Chinese Leeks | *Allium tuberosum* | Edible plant used in cooking and traditional remedies. |
-| ![](images/kamote-tops.jpg) | Kamote Tops | *Ipomoea batatas* | Leafy vegetable rich in antioxidants and used for anemia support. |
-| ![](images/siling-labuyo.jpg) | Siling Labuyo | *Capsicum frutescens* | Small chili pepper used in food and for boosting metabolism. |
-| ![](images/atsuete.jpg) | Atsuete | *Bixa orellana* | Plant used as natural food coloring and traditional medicine. |
-| ![](images/mabolo.jpg) | Mabolo | *Diospyros blancoi* | Tropical fruit tree known for its edible fruit and medicinal bark. |
-| ![](images/bibhitaki.jpg) | Bibhitaki | *Terminalia bellirica* | Herbal plant used in Ayurvedic medicine for digestion support. |
-| ![](images/shatavari.jpg) | Shatavari | *Asparagus racemosus* | Medicinal plant used for hormonal balance and reproductive health. |
-| ![](images/ashwagandha.jpg) | Ashwagandha | *Withania somnifera* | Adaptogenic herb used to reduce stress and improve vitality. |
-| ![](images/guduchi.jpg) | Guduchi | *Tinospora cordifolia* | Climbing shrub known for boosting immunity. |
-| ![](images/alagaw.jpg) | Alagaw | *Premna odorata* | Traditional Filipino medicinal plant used for cough and fever. |
-| ![](images/malabar-nut.jpg) | Malabar Nut | *Justicia adhatoda* | Medicinal plant used for respiratory conditions. |
+| ![](wa.jpg) | Kakawate | *Gliricidia sepium* | Fast-growing tree used for fencing, shade, and soil improvement. |
+| ![](go.jpg) | Gotu Kola | *Centella asiatica* | Creeping herb known for memory enhancement and wound healing. |
+| ![](se.jpg) | Serpentina | *Rauvolfia serpentina* | Medicinal plant used for hypertension and calming effects. |
+| ![](ch.jpg) | Chinese Leeks | *Allium tuberosum* | Edible plant used in cooking and traditional remedies. |
+| ![](mo.jpg) | Kamote Tops | *Ipomoea batatas* | Leafy vegetable rich in antioxidants and used for anemia support. |
+| ![](ta.jpg) | Siling Labuyo | *Capsicum frutescens* | Small chili pepper used in food and for boosting metabolism. |
+| ![](or.jpg) | Atsuete | *Bixa orellana* | Plant used as natural food coloring and traditional medicine. |
+| ![](ma.jpg) | Mabolo | *Diospyros blancoi* | Tropical fruit tree known for its edible fruit and medicinal bark. |
+| ![](ba.jpg) | Bibhitaki | *Terminalia bellirica* | Herbal plant used in Ayurvedic medicine for digestion support. |
+| ![](sh.jpg) | Shatavari | *Asparagus racemosus* | Medicinal plant used for hormonal balance and reproductive health. |
+| ![](as.jpg) | Ashwagandha | *Withania somnifera* | Adaptogenic herb used to reduce stress and improve vitality. |
+| ![](gu.jpg) | Guduchi | *Tinospora cordifolia* | Climbing shrub known for boosting immunity. |
+| ![](al.jpg) | Alagaw | *Premna odorata* | Traditional Filipino medicinal plant used for cough and fever. |
+| ![](ju.jpg) | Malabar Nut | *Justicia adhatoda* | Medicinal plant used for respiratory conditions. |
 | ![](images/kratom.jpg) | Kratom | *Mitragyna speciosa* | Tropical tree known for its stimulant and medicinal properties. |
 | ![](images/ageratum.jpg) | Ageratum | *Ageratum conyzoides* | Medicinal herb used for wound healing and anti-inflammatory purposes. |
 | ![](images/kava.jpg) | Kava | *Piper methysticum* | Plant known for its calming and sedative effects. |
