@@ -15,7 +15,7 @@ This section presents the 20 selected tropical medicinal plants used in the imag
 | Image | Common Name | Scientific Name | Description |
 |-------|-------------|----------------|-------------|
 | ![](pan.jpg) | Ulasimang Bato | *Peperomia pellucida* | Small succulent herb traditionally used for joint pain and inflammation. |
-| ![](images/curry-leaf.jpg) | Curry Leaf | *Murraya koenigii* | Aromatic shrub widely used in cooking and traditional herbal medicine. |
+| ![](cu.jpg) | Curry Leaf | *Murraya koenigii* | Aromatic shrub widely used in cooking and traditional herbal medicine. |
 | ![](images/kakawate.jpg) | Kakawate | *Gliricidia sepium* | Fast-growing tree used for fencing, shade, and soil improvement. |
 | ![](images/gotu-kola.jpg) | Gotu Kola | *Centella asiatica* | Creeping herb known for memory enhancement and wound healing. |
 | ![](images/serpentina.jpg) | Serpentina | *Rauvolfia serpentina* | Medicinal plant used for hypertension and calming effects. |
