@@ -30,10 +30,10 @@ This section presents the 20 selected tropical medicinal plants used in the imag
 | ![](gu.jpg) | Guduchi | *Tinospora cordifolia* | Climbing shrub known for boosting immunity. |
 | ![](al.jpg) | Alagaw | *Premna odorata* | Traditional Filipino medicinal plant used for cough and fever. |
 | ![](ju.jpg) | Malabar Nut | *Justicia adhatoda* | Medicinal plant used for respiratory conditions. |
-| ![](images/kratom.jpg) | Kratom | *Mitragyna speciosa* | Tropical tree known for its stimulant and medicinal properties. |
-| ![](images/ageratum.jpg) | Ageratum | *Ageratum conyzoides* | Medicinal herb used for wound healing and anti-inflammatory purposes. |
-| ![](images/kava.jpg) | Kava | *Piper methysticum* | Plant known for its calming and sedative effects. |
-| ![](images/bitter-leaf.jpg) | Bitter Leaf | *Vernonia amygdalina* | Medicinal shrub used for digestion and blood sugar regulation. |
+| ![](ka.jpg) | Kratom | *Mitragyna speciosa* | Tropical tree known for its stimulant and medicinal properties. |
+| ![](ag.jpg) | Ageratum | *Ageratum conyzoides* | Medicinal herb used for wound healing and anti-inflammatory purposes. |
+| ![](va.jpg) | Kava | *Piper methysticum* | Plant known for its calming and sedative effects. |
+| ![](bi.jpg) | Bitter Leaf | *Vernonia amygdalina* | Medicinal shrub used for digestion and blood sugar regulation. |
 
 ##Reflection Questions:
 
