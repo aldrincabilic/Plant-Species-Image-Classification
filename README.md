@@ -15,7 +15,7 @@ This section presents the 20 selected tropical medicinal plants used in the imag
 <table>
 <tr>
 <td align="center">
-<img src="images/pan.jpg" width="200"><br>
+<img src="pan.jpg" width="200"><br>
 <b>Ulasimang Bato</b><br>
 <i>Peperomia pellucida</i><br>
 Small succulent herb traditionally used for joint pain.
